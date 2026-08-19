@@ -1,0 +1,2729 @@
+{
+  "hits": [
+    {
+      "schoolName": "D Russel Lee Career Center",
+      "aiCode": "362463",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Fairfield Township",
+        "countryIsoCd": "US",
+        "postalCd": "45011-2241",
+        "addressLine1": "3603 Hamilton Middletown Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Butler Tech Advanced Manufacturing Facility",
+      "aiCode": "632099",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45011-3166",
+        "addressLine1": "101 Knightsbridge Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Hamilton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Cincinnati Christian Schools",
+      "aiCode": "360954",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Fairfield Township",
+        "countryIsoCd": "US",
+        "postalCd": "45011-5500",
+        "addressLine1": "7474 Morris Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "New Miami High School",
+      "aiCode": "362483",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45011-5748",
+        "addressLine1": "600 Seven Mile Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Hamilton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Butler Tech School of Arts",
+      "aiCode": "365161",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45011-2820",
+        "addressLine1": "228 Court St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Hamilton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Hamilton Christian School",
+      "aiCode": "362472",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Hamilton",
+        "countryIsoCd": "US",
+        "postalCd": "45013-2452",
+        "addressLine1": "40 Wrenwood Dr",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Stephen T Badin High School",
+      "aiCode": "362485",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Hamilton",
+        "countryIsoCd": "US",
+        "postalCd": "45013-3654",
+        "addressLine1": "571 Hamilton New London Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Ross Senior High School",
+      "aiCode": "362490",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45013-9505",
+        "addressLine1": "3601 Hamilton Cleves Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Hamilton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Hamilton High School",
+      "aiCode": "362493",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45013-1402",
+        "addressLine1": "1165 Eaton Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Hamilton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "The Miami School",
+      "aiCode": "360376",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45013-3340",
+        "addressLine1": "140 Ross Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Hamilton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Hamilton Freshman School",
+      "aiCode": "369164",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45013-5832",
+        "addressLine1": "2260 NW Washington Blvd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Hamilton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Fairfield High School",
+      "aiCode": "362465",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Fairfield",
+        "countryIsoCd": "US",
+        "postalCd": "45014-2100",
+        "addressLine1": "8800 Holden Blvd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Fairfield Middle School",
+      "aiCode": "369213",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Fairfield",
+        "countryIsoCd": "US",
+        "postalCd": "45014-2909",
+        "addressLine1": "1111 Nilles Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Marshall High School",
+      "aiCode": "365312",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Middletown",
+        "countryIsoCd": "US",
+        "postalCd": "45044-6250",
+        "addressLine1": "4720 Roosevelt Blvd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "H T R Christian School",
+      "aiCode": "363407",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Middletown",
+        "countryIsoCd": "US",
+        "postalCd": "45044-7910",
+        "addressLine1": "6342 Hamilton Middletown Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Lakota East High School",
+      "aiCode": "363408",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45044-9578",
+        "addressLine1": "6840 Lakota Ln",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Liberty Township"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Life Skills Center of Butler County",
+      "aiCode": "365031",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Middletown",
+        "countryIsoCd": "US",
+        "postalCd": "45044-5113",
+        "addressLine1": "631 S Breiel Blvd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Summit Academy Middletown Secondary School",
+      "aiCode": "365404",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Middletown",
+        "countryIsoCd": "US",
+        "postalCd": "45044-7767",
+        "addressLine1": "3029 Yankee Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Mother Teresa Catholic Elementary School",
+      "aiCode": "369002",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45044-8867",
+        "addressLine1": "7197 Mother Teresa Ln",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Middletown"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Talawanda High School",
+      "aiCode": "363990",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45056",
+        "addressLine1": "5301 University Park Blvd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Oxford"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "McGuffey Montessori School",
+      "aiCode": "360113",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45056-1015",
+        "addressLine1": "5128 Westgate Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Oxford"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Middletown High School",
+      "aiCode": "363410",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45042-3801",
+        "addressLine1": "601 N Breiel Blvd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Middletown"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Butler Tech Aviation Facility",
+      "aiCode": "434404",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45042-1739",
+        "addressLine1": "1902 Germantown Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Middletown"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Madison Jr-Sr High School",
+      "aiCode": "365473",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45042-8900",
+        "addressLine1": "5797 W Alexandria Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Middletown"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Ohio Christian Academy",
+      "aiCode": "360021",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Middletown",
+        "countryIsoCd": "US",
+        "postalCd": "45042-2974",
+        "addressLine1": "4419 Nelson Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Lakota West High School",
+      "aiCode": "365417",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45069-2948",
+        "addressLine1": "8940 Union Centre Blvd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "West Chester"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Lakota Ridge Junior School",
+      "aiCode": "369041",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45069-6413",
+        "addressLine1": "6199 Beckett Ridge Blvd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "West Chester"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Butler Tech Bioscience Center",
+      "aiCode": "365805",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45069-7521",
+        "addressLine1": "8450 Capstone Blvd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "West Chester"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Lakota Central",
+      "aiCode": "363366",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45069-1012",
+        "addressLine1": "5030 Tylersville Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "West Chester"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Lakota West Freshman Campus",
+      "aiCode": "369065",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45069-1012",
+        "addressLine1": "5050 Tylersville Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "West Chester"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "St Gertrude The Great School",
+      "aiCode": "360092",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "West Chester",
+        "countryIsoCd": "US",
+        "postalCd": "45069-2929",
+        "addressLine1": "4890 Rialto Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Monroe High School",
+      "aiCode": "363495",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45050-1042",
+        "addressLine1": "220 Yankee Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Monroe"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Butler Tech: Natural Science Center",
+      "aiCode": "365107",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45050-1349",
+        "addressLine1": "640 Macready Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Monroe"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Monroe Elementary School",
+      "aiCode": "369208",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45050-1042",
+        "addressLine1": "230 Yankee Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Monroe"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Clinton-Massie High School",
+      "aiCode": "361190",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45113-8201",
+        "addressLine1": "2556 Lebanon Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Clarksville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Fayetteville-Perry High School",
+      "aiCode": "362125",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45118-8461",
+        "addressLine1": "501 S Apple St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Fayetteville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Fairfield Local High School",
+      "aiCode": "362915",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45135-8601",
+        "addressLine1": "11611 State Route 771",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Leesburg"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "East Clinton Local High School",
+      "aiCode": "362920",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45169-9255",
+        "addressLine1": "174 Larrick Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Sabina"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "East Clinton Middle School",
+      "aiCode": "369249",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45169-9255",
+        "addressLine1": "174 Larrick Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Sabina"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Wilmington High School",
+      "aiCode": "365600",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45177-1251",
+        "addressLine1": "300 Richardson Pl",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Wilmington"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Laurel Oaks Career Development",
+      "aiCode": "365598",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45177-9384",
+        "addressLine1": "300 Oak Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Wilmington"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Wilmington Christian Academy",
+      "aiCode": "365308",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Wilmington",
+        "countryIsoCd": "US",
+        "postalCd": "45177-2471",
+        "addressLine1": "642 Davids Dr",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Calvary Free Will Baptist School",
+      "aiCode": "360339",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Batavia",
+        "countryIsoCd": "US",
+        "postalCd": "45103-8926",
+        "addressLine1": "3969 State Route 132",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Clermont Northeastern High School",
+      "aiCode": "363985",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45103-9511",
+        "addressLine1": "5327 Hutchinson Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Batavia"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Batavia High School",
+      "aiCode": "360335",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45103-3213",
+        "addressLine1": "1 Bulldog Pl",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Batavia"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "West Clermont High School",
+      "aiCode": "360994",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45103-2897",
+        "addressLine1": "4101 Bach Buxton Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Batavia"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Bethel Christian Academy",
+      "aiCode": "360454",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Bethel",
+        "countryIsoCd": "US",
+        "postalCd": "45106-9508",
+        "addressLine1": "2738 State Route 125",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Bethel Tate High School",
+      "aiCode": "360455",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45106-8560",
+        "addressLine1": "3420 State Route 125",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Bethel"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Grant Career Center",
+      "aiCode": "360459",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45106-8356",
+        "addressLine1": "718 W Plane St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Bethel"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Blanchester High School",
+      "aiCode": "360495",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45107-7907",
+        "addressLine1": "953 Cherry St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Blanchester"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Blanchester Middle School",
+      "aiCode": "369167",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45107-7907",
+        "addressLine1": "955 Cherry St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Blanchester"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Felicity-Franklin High School",
+      "aiCode": "362130",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45120-9668",
+        "addressLine1": "105 Market St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Felicity"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Southern Hills Career And Technical Center",
+      "aiCode": "362293",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45121-9472",
+        "addressLine1": "9193 Hamer Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Georgetown"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Georgetown Junior-Senior High School",
+      "aiCode": "362290",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45121-9314",
+        "addressLine1": "987 Mount Orab Pike",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Georgetown"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Goshen High School",
+      "aiCode": "362370",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45122-9200",
+        "addressLine1": "6707 Goshen Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Goshen"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Loveland High School",
+      "aiCode": "363085",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45140-1975",
+        "addressLine1": "1 Tiger Trl",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Loveland"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Calvary Christian Academy",
+      "aiCode": "363428",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Milford",
+        "countryIsoCd": "US",
+        "postalCd": "45150-2105",
+        "addressLine1": "1123 State Route 28",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Live Oaks Career Development Center",
+      "aiCode": "363429",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Milford",
+        "countryIsoCd": "US",
+        "postalCd": "45150-2238",
+        "addressLine1": "5956 Buckwheat Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Milford High School",
+      "aiCode": "363430",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45150-2086",
+        "addressLine1": "1 Eagles Way",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Milford"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Milford Christian Academy",
+      "aiCode": "363431",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Milford",
+        "countryIsoCd": "US",
+        "postalCd": "45150-2260",
+        "addressLine1": "1365 Woodville Pike",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Western Brown High School",
+      "aiCode": "363535",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45154-9452",
+        "addressLine1": "476 W Main St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Mount Orab"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "New Richmond High School",
+      "aiCode": "363760",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45157-8530",
+        "addressLine1": "1131 Bethel New Richmond Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "New Richmond"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Williamsburg High School",
+      "aiCode": "365550",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45176-1017",
+        "addressLine1": "500 S 5th St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Williamsburg"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Brookville High School",
+      "aiCode": "360610",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45309-1451",
+        "addressLine1": "1 Blue Pride Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Brookville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Valley View High School",
+      "aiCode": "362295",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45327",
+        "addressLine1": "6057 Farmersville Pike",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "GERMANTOWN"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Germantown Christian Schools",
+      "aiCode": "362296",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Germantown",
+        "countryIsoCd": "US",
+        "postalCd": "45327-9706",
+        "addressLine1": "9440 Eby Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Dayton Christian High School",
+      "aiCode": "361799",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Miamisburg",
+        "countryIsoCd": "US",
+        "postalCd": "45342-4429",
+        "addressLine1": "9391 Washington Church Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Calvary Christian School",
+      "aiCode": "363383",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Miamisburg",
+        "countryIsoCd": "US",
+        "postalCd": "45342-3956",
+        "addressLine1": "748 S Gebhart Church Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Miamisburg Secondary Digital Academy",
+      "aiCode": "365152",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Miamisburg",
+        "countryIsoCd": "US",
+        "postalCd": "45342-2854",
+        "addressLine1": "540 Park Ave",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Miamisburg High School",
+      "aiCode": "363385",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45342-3870",
+        "addressLine1": "1860 Belvo Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Miamisburg"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Wantz Middle School",
+      "aiCode": "369006",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Miamisburg",
+        "countryIsoCd": "US",
+        "postalCd": "45342-2906",
+        "addressLine1": "122 S 6th St",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Miamisburg Middle School",
+      "aiCode": "369060",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45342-3493",
+        "addressLine1": "8668 Miamisburg Springboro Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Miamisburg"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Tecumseh High School",
+      "aiCode": "363670",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45344-9290",
+        "addressLine1": "9830 W National Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "New Carlisle"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Guiding Shepherd Christian School",
+      "aiCode": "360002",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "New Carlisle",
+        "countryIsoCd": "US",
+        "postalCd": "45344-1953",
+        "addressLine1": "220 S Main St",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Tippecanoe High School",
+      "aiCode": "364995",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45371-2927",
+        "addressLine1": "615 E Kessler Cowlesville Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Tipp City"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Bethel High School",
+      "aiCode": "364990",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45371-7316",
+        "addressLine1": "7490 State Route 201",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Tipp City"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Tippecanoe Middle School",
+      "aiCode": "369241",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45371-1522",
+        "addressLine1": "555 N Hyatt St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Tipp City"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Butler High School",
+      "aiCode": "365200",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45377-2550",
+        "addressLine1": "600 S Dixie Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Vandalia"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Twin Valley South High School",
+      "aiCode": "365410",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45381-1184",
+        "addressLine1": "100 Education Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "West Alexandria"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Chaminade-Julienne High School",
+      "aiCode": "361795",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45402-2606",
+        "addressLine1": "505 S Ludlow St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Grace A Greene Academy",
+      "aiCode": "361812",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45402-6542",
+        "addressLine1": "503 Edison Street",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "David H Ponitz Career Technology Center",
+      "aiCode": "361820",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45402-8446",
+        "addressLine1": "741 Washington St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Stivers School for the Arts",
+      "aiCode": "361866",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45402-2222",
+        "addressLine1": "1313 E 5th St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Mound Street Health Careers Academy",
+      "aiCode": "365017",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45402-8325",
+        "addressLine1": "354 Mound St",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Dayton Technology Design High School",
+      "aiCode": "365159",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45402-3006",
+        "addressLine1": "348 W 1st St",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Olympus High School Dayton Central",
+      "aiCode": "365794",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45402-1373",
+        "addressLine1": "140 North Keowee Street",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Mound Street Academy",
+      "aiCode": "513268",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45402-8325",
+        "addressLine1": "354 Mound St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Mound Street Military Academy",
+      "aiCode": "365012",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45402-8325",
+        "addressLine1": "354 Mound St",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Mound Street Information Technology Academy",
+      "aiCode": "365016",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45402-8325",
+        "addressLine1": "324 Mound Street",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Wilbur Wright Middle School",
+      "aiCode": "369016",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45403-3016",
+        "addressLine1": "1361 Huffman Ave",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Evangel Academy",
+      "aiCode": "361808",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45403-1736",
+        "addressLine1": "132 N Smithville Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Kiser Middle School",
+      "aiCode": "369012",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45404-1700",
+        "addressLine1": "1401 Leo St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Christian Training Center Academy",
+      "aiCode": "364429",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45404-2546",
+        "addressLine1": "2360 Valley Pike",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Life Skills Center of Dayton",
+      "aiCode": "365184",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45405-4143",
+        "addressLine1": "1721 N Main St",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Dominion Academy of Dayton",
+      "aiCode": "365067",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45405-4634",
+        "addressLine1": "925 N Main St",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Fairview Middle School",
+      "aiCode": "369009",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45406-1801",
+        "addressLine1": "2408 Philadelphia Avenue",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Fairport Middle School",
+      "aiCode": "369013",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45406-3403",
+        "addressLine1": "1952 Fairport Avenue",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Longfellow Alternative Center",
+      "aiCode": "361817",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45406-5806",
+        "addressLine1": "245 Salem Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Bridgescape Learning Academy",
+      "aiCode": "360057",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45406-1825",
+        "addressLine1": "3237 W Siebenthaler Ave",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Temple Christian School",
+      "aiCode": "361868",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45410-3050",
+        "addressLine1": "1617 Ohmer Ave",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Northridge High School",
+      "aiCode": "361840",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45414-4528",
+        "addressLine1": "2011 Timber Ln",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Covenant Christian School",
+      "aiCode": "365202",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45414-1522",
+        "addressLine1": "8001 Peters Pike",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Northside Christian School",
+      "aiCode": "361818",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45414-1805",
+        "addressLine1": "8921 N Dixie Dr",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Horizon Science Academy - Dayton",
+      "aiCode": "365212",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45415-3517",
+        "addressLine1": "250 Shoup Mill Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Summit Academy Dayton Secondary School",
+      "aiCode": "365405",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45415-3632",
+        "addressLine1": "251 Erdiel Dr",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Meadowdale Career Technology Center",
+      "aiCode": "361834",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45416-2260",
+        "addressLine1": "3873 Whitestone Ct",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Thurgood Marshall High School",
+      "aiCode": "361797",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45417-1117",
+        "addressLine1": "4447 Hoover Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Dayton Job Corps Center",
+      "aiCode": "361803",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45417-6111",
+        "addressLine1": "3849 Germantown Pike",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Roth Middle School",
+      "aiCode": "369015",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45417-1119",
+        "addressLine1": "4535 Hoover Avenue",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Union Pentecostal Church School",
+      "aiCode": "365074",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45417-7627",
+        "addressLine1": "1101 N Union Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Westwood PK-8 School",
+      "aiCode": "369055",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45417-1569",
+        "addressLine1": "2805 Oakridge Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Laurence Dunbar High School",
+      "aiCode": "361800",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45417-4480",
+        "addressLine1": "1400 Albritton Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Jefferson High School",
+      "aiCode": "361815",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45417-5537",
+        "addressLine1": "2701 S Union Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Oakwood High School",
+      "aiCode": "361845",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45419-3157",
+        "addressLine1": "1200 Far Hills Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Oakwood"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Wesleyan Christian Academy",
+      "aiCode": "361871",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45420-1818",
+        "addressLine1": "2104 Revere Ave",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Belmont High School",
+      "aiCode": "361793",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45420-1833",
+        "addressLine1": "2615 Wayne Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Kettering Middle School",
+      "aiCode": "369073",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45420-1227",
+        "addressLine1": "3000 Glengarry Dr",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Dayton Regional Stem School",
+      "aiCode": "365157",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Kettering",
+        "countryIsoCd": "US",
+        "postalCd": "45420-3662",
+        "addressLine1": "1724 Woodman Dr",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Wayne High School",
+      "aiCode": "361870",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45424-3700",
+        "addressLine1": "5400 Chambersburg Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Studebaker Junior High School",
+      "aiCode": "369007",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45424-2943",
+        "addressLine1": "5950 Longford Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Walter E Stebbins High School",
+      "aiCode": "361831",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45424-5022",
+        "addressLine1": "1900 Harshman Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Lighthouse Christian School",
+      "aiCode": "361832",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45424-5027",
+        "addressLine1": "2221 Harshman Rd",
+        "addressLine2": "PO Box 24007",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Huber Heights Christian Academy",
+      "aiCode": "362647",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45424-6318",
+        "addressLine1": "7730 Taylorsville Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Trotwood Liberty Christian School",
+      "aiCode": "365102",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45424-4653",
+        "addressLine1": "4121 Spruce Pine Ct",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Trotwood-Madison High School",
+      "aiCode": "365100",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45426-3706",
+        "addressLine1": "4440 N Union Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Trotwood-Madison Middle School",
+      "aiCode": "369400",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45426-3706",
+        "addressLine1": "4420 N Union Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Van Buren Middle School",
+      "aiCode": "369074",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45429-2735",
+        "addressLine1": "3775 Shroyer Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "The Miami Valley School",
+      "aiCode": "361833",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45429-1909",
+        "addressLine1": "5151 Denise Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Kettering Fairmont High School",
+      "aiCode": "362792",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45429-2635",
+        "addressLine1": "3301 Shroyer Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Archbishop Alter High School",
+      "aiCode": "362794",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45429-5512",
+        "addressLine1": "940 E David Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Madriver Christian Academy",
+      "aiCode": "361835",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45431-2107",
+        "addressLine1": "5289 Burkhardt Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "East Dayton Christian School",
+      "aiCode": "365253",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45431-2847",
+        "addressLine1": "999 Spinning Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Carroll High School",
+      "aiCode": "361794",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45432-3026",
+        "addressLine1": "4524 Linden Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Olympus High School Dayton East",
+      "aiCode": "365795",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45432-3004",
+        "addressLine1": "3932 Linden Ave",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Beavercreek High School",
+      "aiCode": "365660",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45434-6416",
+        "addressLine1": "2660 Dayton Xenia Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Abundant Life Christian Academy",
+      "aiCode": "361791",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45440-3848",
+        "addressLine1": "4100 Brown Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Bethel Baptist School",
+      "aiCode": "365412",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45449-1658",
+        "addressLine1": "434 Wilson Park Dr",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "West Carrollton Senior High School",
+      "aiCode": "365415",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45449-2935",
+        "addressLine1": "5833 Student St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Miami Valley Academies",
+      "aiCode": "365196",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45449-2806",
+        "addressLine1": "5656 Springboro Pike",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "West Carrollton Middle School",
+      "aiCode": "369039",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45449-1310",
+        "addressLine1": "424 E Main St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "West Carrollton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Spring Valley Academy",
+      "aiCode": "360852",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45458-2744",
+        "addressLine1": "1461 E Spring Valley Pike",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [
+          "P10-2027-S"
+        ],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Centerville High School",
+      "aiCode": "360850",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45459-5714",
+        "addressLine1": "500 E Franklin St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Tower Heights Middle School",
+      "aiCode": "369033",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45459-4625",
+        "addressLine1": "195 N Johanna Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Magsig Middle School",
+      "aiCode": "369034",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45459-4750",
+        "addressLine1": "192 W Franklin St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Incarnation Catholic School",
+      "aiCode": "369010",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Dayton",
+        "countryIsoCd": "US",
+        "postalCd": "45459-4218",
+        "addressLine1": "45 Williamsburg Ln",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Hadley Watts Middle School",
+      "aiCode": "369035",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45459-3238",
+        "addressLine1": "7056 McEwen Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    },
+    {
+      "schoolName": "Reserve By Creative World Of Montessori",
+      "aiCode": "526132",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45459-4126",
+        "addressLine1": "475 Congress Park Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": []
+      }
+    }
+  ]
+}
