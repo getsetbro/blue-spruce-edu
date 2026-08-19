@@ -1,0 +1,3076 @@
+{
+  "hits": [
+    {
+      "schoolName": "Lebanon High School",
+      "aiCode": "362910",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45036-8624",
+        "addressLine1": "1916 Drake Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Lebanon"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.4539873,
+      "lng": -84.1843982
+    },
+    {
+      "schoolName": "Mason High School",
+      "aiCode": "363275",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45040-3708",
+        "addressLine1": "6100 S Mason Montgomery Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Mason"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.350619,
+      "lng": -84.309804
+    },
+    {
+      "schoolName": "Waynesville High School",
+      "aiCode": "365385",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45068-8432",
+        "addressLine1": "735 Dayton Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Waynesville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.5353275,
+      "lng": -84.0929804
+    },
+    {
+      "schoolName": "Ross Senior High School",
+      "aiCode": "362490",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45013-9505",
+        "addressLine1": "3601 Hamilton Cleves Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Hamilton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.3945161,
+      "lng": -84.5729065
+    },
+    {
+      "schoolName": "West Clermont High School",
+      "aiCode": "360994",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45103-2897",
+        "addressLine1": "4101 Bach Buxton Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Batavia"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.0500358,
+      "lng": -84.2459593
+    },
+    {
+      "schoolName": "Wayne High School",
+      "aiCode": "361870",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45424-3700",
+        "addressLine1": "5400 Chambersburg Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.8489629,
+      "lng": -84.1536217
+    },
+    {
+      "schoolName": "The Miami Valley School",
+      "aiCode": "361833",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45429-1909",
+        "addressLine1": "5151 Denise Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.6738592,
+      "lng": -84.1798644
+    },
+    {
+      "schoolName": "Carroll High School",
+      "aiCode": "361794",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45432-3026",
+        "addressLine1": "4524 Linden Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.7402678,
+      "lng": -84.1131825
+    },
+    {
+      "schoolName": "Magsig Middle School",
+      "aiCode": "369034",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45459-4750",
+        "addressLine1": "192 W Franklin St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Dayton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.753435,
+      "lng": -84.1910794
+    },
+    {
+      "schoolName": "Bellbrook High School",
+      "aiCode": "360385",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45305-8750",
+        "addressLine1": "3737 Upper Bellbrook Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Bellbrook"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.6416052,
+      "lng": -84.0703007
+    },
+    {
+      "schoolName": "Greeneview High School",
+      "aiCode": "362715",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45335-1518",
+        "addressLine1": "4710 Cottonville Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Jamestown"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.6552782,
+      "lng": -83.7582862
+    },
+    {
+      "schoolName": "Summit Country Day School",
+      "aiCode": "361120",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Cincinnati",
+        "countryIsoCd": "US",
+        "postalCd": "45208-3359",
+        "addressLine1": "2161 Grandin Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.1292725,
+      "lng": -84.4595398
+    },
+    {
+      "schoolName": "DePaul Cristo Rey High School",
+      "aiCode": "365237",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Cincinnati",
+        "countryIsoCd": "US",
+        "postalCd": "45223-2611",
+        "addressLine1": "3440 Central Pkwy",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [
+          "SATSD-2026-F"
+        ],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.146709,
+      "lng": -84.537112
+    },
+    {
+      "schoolName": "Saint Xavier High School",
+      "aiCode": "361110",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Cincinnati",
+        "countryIsoCd": "US",
+        "postalCd": "45224-1424",
+        "addressLine1": "600 W North Bend Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [
+          "SATSD-2027-S"
+        ],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.2093835,
+      "lng": -84.5067794
+    },
+    {
+      "schoolName": "Seven Hills School",
+      "aiCode": "361005",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45227-1122",
+        "addressLine1": "5400 Red Bank Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Cincinnati"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.1668419,
+      "lng": -84.4025707
+    },
+    {
+      "schoolName": "Mariemont High School",
+      "aiCode": "363205",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45227-2596",
+        "addressLine1": "1 Warrior Way",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Cincinnati"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.1450132,
+      "lng": -84.3645246
+    },
+    {
+      "schoolName": "McNicholas High",
+      "aiCode": "361030",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Cincinnati",
+        "countryIsoCd": "US",
+        "postalCd": "45230-2004",
+        "addressLine1": "6536 Beechmont Ave",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.0862079,
+      "lng": -84.3782149
+    },
+    {
+      "schoolName": "Deer Park High School",
+      "aiCode": "360975",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Cincinnati",
+        "countryIsoCd": "US",
+        "postalCd": "45236-2445",
+        "addressLine1": "8351 Plainfield Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.182153,
+      "lng": -84.4016538
+    },
+    {
+      "schoolName": "La Salle High School",
+      "aiCode": "361021",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45239-7637",
+        "addressLine1": "3091 N Bend Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Cincinnati"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.2036093,
+      "lng": -84.5619034
+    },
+    {
+      "schoolName": "Ursuline Academy",
+      "aiCode": "361125",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Blue Ash",
+        "countryIsoCd": "US",
+        "postalCd": "45242-4813",
+        "addressLine1": "5535 Pfeiffer Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.250142,
+      "lng": -84.3706737
+    },
+    {
+      "schoolName": "Anderson High School",
+      "aiCode": "360945",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45255-4307",
+        "addressLine1": "7560 Forest Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Cincinnati"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.0694614,
+      "lng": -84.3488159
+    },
+    {
+      "schoolName": "Troy Christian High School",
+      "aiCode": "365106",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Troy",
+        "countryIsoCd": "US",
+        "postalCd": "45373-4701",
+        "addressLine1": "700 S Dorset Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.037008,
+      "lng": -84.228678
+    },
+    {
+      "schoolName": "Global Impact Stem Academy Upper Academy",
+      "aiCode": "365300",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45505-4749",
+        "addressLine1": "572 E Leffel Ln",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Springfield"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.8964697,
+      "lng": -83.83541
+    },
+    {
+      "schoolName": "Central Crossing High School",
+      "aiCode": "362438",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43123-9687",
+        "addressLine1": "4500 Big Run South Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Grove City"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.8975458,
+      "lng": -83.1150206
+    },
+    {
+      "schoolName": "Grove City High School",
+      "aiCode": "362440",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43123-8621",
+        "addressLine1": "4665 Hoover Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Grove City"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.8691419,
+      "lng": -83.0706063
+    },
+    {
+      "schoolName": "Grove City Christian School",
+      "aiCode": "362441",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43123-8504",
+        "addressLine1": "4750 Hoover Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Grove City"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.8646337,
+      "lng": -83.068538
+    },
+    {
+      "schoolName": "South-Western Career Academy",
+      "aiCode": "365689",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43123-9692",
+        "addressLine1": "4750 Big Run South Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Grove City"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.8940897,
+      "lng": -83.1163103
+    },
+    {
+      "schoolName": "Perrysburg High School",
+      "aiCode": "364090",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43551-1363",
+        "addressLine1": "13385 Roachton Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Perrysburg"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [
+          "P10-2027-S"
+        ],
+        "psat89": []
+      },
+      "lat": 41.5192321,
+      "lng": -83.653069
+    },
+    {
+      "schoolName": "Toledo Islamic Academy",
+      "aiCode": "365063",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Sylvania",
+        "countryIsoCd": "US",
+        "postalCd": "43560-2505",
+        "addressLine1": "5225 Alexis Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 41.7140178,
+      "lng": -83.6690761
+    },
+    {
+      "schoolName": "Sylvania Northview High School",
+      "aiCode": "364930",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43560-1981",
+        "addressLine1": "5403 Silica Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Sylvania"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 41.7126494,
+      "lng": -83.7114843
+    },
+    {
+      "schoolName": "Ottawa Hills Junior-Senior High School",
+      "aiCode": "365050",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Ottawa Hills",
+        "countryIsoCd": "US",
+        "postalCd": "43606-2301",
+        "addressLine1": "2532 Evergreen Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 41.6696125,
+      "lng": -83.6304202
+    },
+    {
+      "schoolName": "Saint Francis De Sales High School",
+      "aiCode": "365053",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Toledo",
+        "countryIsoCd": "US",
+        "postalCd": "43607-1306",
+        "addressLine1": "2323 W Bancroft St",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 41.6619413,
+      "lng": -83.5986483
+    },
+    {
+      "schoolName": "Central Catholic High School",
+      "aiCode": "365005",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Toledo",
+        "countryIsoCd": "US",
+        "postalCd": "43608-2372",
+        "addressLine1": "2550 Cherry St",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 41.6731776,
+      "lng": -83.5439295
+    },
+    {
+      "schoolName": "Defiance Senior High School",
+      "aiCode": "361895",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43512-3422",
+        "addressLine1": "1755 Palmer Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Defiance"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 41.2635699,
+      "lng": -84.3609423
+    },
+    {
+      "schoolName": "Arlington High School",
+      "aiCode": "360205",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45814-6700",
+        "addressLine1": "336 S Main St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Arlington"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.889256,
+      "lng": -83.651142
+    },
+    {
+      "schoolName": "Bluffton High School",
+      "aiCode": "360535",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45817-1203",
+        "addressLine1": "106 W College Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Bluffton"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.8928818,
+      "lng": -83.8939484
+    },
+    {
+      "schoolName": "Leipsic High School",
+      "aiCode": "362930",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45856-1312",
+        "addressLine1": "232 Oak St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Leipsic"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 41.0981772,
+      "lng": -83.9896291
+    },
+    {
+      "schoolName": "Findlay High School",
+      "aiCode": "362135",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45840-2653",
+        "addressLine1": "1200 Broad Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Findlay"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 41.055475,
+      "lng": -83.664648
+    },
+    {
+      "schoolName": "Van Buren Local High School",
+      "aiCode": "365195",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45889-9697",
+        "addressLine1": "217 S Main St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Van Buren"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 41.135561,
+      "lng": -83.649366
+    },
+    {
+      "schoolName": "Fostoria High School",
+      "aiCode": "362170",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "44830-1455",
+        "addressLine1": "1001 Park Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Fostoria"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 41.1693485,
+      "lng": -83.4308505
+    },
+    {
+      "schoolName": "Columbian High School",
+      "aiCode": "364975",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "44883-2959",
+        "addressLine1": "300 S Monroe St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Tiffin"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 41.107859,
+      "lng": -83.177261
+    },
+    {
+      "schoolName": "Lincolnview High School",
+      "aiCode": "365218",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45891-9769",
+        "addressLine1": "15945 Middle Point Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Van Wert"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.8533356,
+      "lng": -84.5162374
+    },
+    {
+      "schoolName": "Lima Central Catholic High School",
+      "aiCode": "362965",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Lima",
+        "countryIsoCd": "US",
+        "postalCd": "45805-3456",
+        "addressLine1": "720 S Cable Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.732221,
+      "lng": -84.1468783
+    },
+    {
+      "schoolName": "Parkway High School",
+      "aiCode": "364445",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45882-9267",
+        "addressLine1": "400 Buckeye St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Rockford"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.6841708,
+      "lng": -84.64793
+    },
+    {
+      "schoolName": "Spencerville High School",
+      "aiCode": "364765",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45887-1293",
+        "addressLine1": "2500 Wisher Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Spencerville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.703239,
+      "lng": -84.342514
+    },
+    {
+      "schoolName": "Minster High School",
+      "aiCode": "363485",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "45865-1080",
+        "addressLine1": "100 E 7th St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Minster"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.400329,
+      "lng": -84.378372
+    },
+    {
+      "schoolName": "Olentangy High School",
+      "aiCode": "361910",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43035-9049",
+        "addressLine1": "675 Lewis Center Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Lewis Center"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.2001125,
+      "lng": -83.0194799
+    },
+    {
+      "schoolName": "Marysville STEM Early College High School",
+      "aiCode": "365327",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43040-1056",
+        "addressLine1": "833 N Maple St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Marysville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.2462883,
+      "lng": -83.372371
+    },
+    {
+      "schoolName": "Rutherford B Hayes High School",
+      "aiCode": "361905",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43015-1272",
+        "addressLine1": "289 Euclid Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Delaware"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.3103085,
+      "lng": -83.0810924
+    },
+    {
+      "schoolName": "Olentangy Berlin High School",
+      "aiCode": "361837",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43015-7692",
+        "addressLine1": "3140 Berlin Station Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Delaware"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.254246,
+      "lng": -83.0053555
+    },
+    {
+      "schoolName": "Olentangy Liberty High School",
+      "aiCode": "365046",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43065-9757",
+        "addressLine1": "3584 Home Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Powell"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.1978977,
+      "lng": -83.0990657
+    },
+    {
+      "schoolName": "Thomas Worthington High School",
+      "aiCode": "365647",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43085-3599",
+        "addressLine1": "300 W Granville Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Worthington"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.0904857,
+      "lng": -83.0243259
+    },
+    {
+      "schoolName": "West High School",
+      "aiCode": "361635",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43204-3032",
+        "addressLine1": "179 S Powell Ave",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Columbus"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.9512271,
+      "lng": -83.0750067
+    },
+    {
+      "schoolName": "Bishop Ready High School",
+      "aiCode": "361509",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Columbus",
+        "countryIsoCd": "US",
+        "postalCd": "43204-2449",
+        "addressLine1": "707 Salisbury Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.9399755,
+      "lng": -83.0817051
+    },
+    {
+      "schoolName": "Columbus Preparatory Academy",
+      "aiCode": "365346",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Columbus",
+        "countryIsoCd": "US",
+        "postalCd": "43204-1653",
+        "addressLine1": "3330 Chippewa St",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.9857784,
+      "lng": -83.0923079
+    },
+    {
+      "schoolName": "Columbus Scioto 6-12",
+      "aiCode": "365302",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43207-3669",
+        "addressLine1": "2951 S High St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Columbus"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.901428,
+      "lng": -82.995443
+    },
+    {
+      "schoolName": "Columbus Online Academy 9-12",
+      "aiCode": "360138",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43207-4010",
+        "addressLine1": "3700 S High St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Columbus"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.8859598,
+      "lng": -82.9991046
+    },
+    {
+      "schoolName": "Bishop Watterson High School",
+      "aiCode": "361510",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Columbus",
+        "countryIsoCd": "US",
+        "postalCd": "43214-3111",
+        "addressLine1": "99 E Cooke Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.049312,
+      "lng": -83.016004
+    },
+    {
+      "schoolName": "Graham School",
+      "aiCode": "361544",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Columbus",
+        "countryIsoCd": "US",
+        "postalCd": "43214-3167",
+        "addressLine1": "3950 Indianola Ave",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [
+          "SATSD-2026-F"
+        ],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.0448495,
+      "lng": -82.9999211
+    },
+    {
+      "schoolName": "Whetstone High School",
+      "aiCode": "361636",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43214-3040",
+        "addressLine1": "4405 Scenic Dr",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Columbus"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.0501031,
+      "lng": -83.0289518
+    },
+    {
+      "schoolName": "Columbus Downtown High School",
+      "aiCode": "365210",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43215-5424",
+        "addressLine1": "364 S 4th St",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Columbus"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.9549924,
+      "lng": -82.9946423
+    },
+    {
+      "schoolName": "Centennial High School",
+      "aiCode": "361516",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43220-2001",
+        "addressLine1": "1441 Bethel Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Columbus"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.0636541,
+      "lng": -83.0575194
+    },
+    {
+      "schoolName": "Wellington School",
+      "aiCode": "361631",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Columbus",
+        "countryIsoCd": "US",
+        "postalCd": "43220-4825",
+        "addressLine1": "3650 Reed Rd",
+        "state": "OH",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.0573794,
+      "lng": -83.0668188
+    },
+    {
+      "schoolName": "Briggs Senior High School",
+      "aiCode": "361512",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43223-3110",
+        "addressLine1": "2555 Briggs Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Columbus"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.9289498,
+      "lng": -83.0638122
+    },
+    {
+      "schoolName": "Worthington Kilbourne High School",
+      "aiCode": "365507",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "43235-1991",
+        "addressLine1": "1499 Hard Rd",
+        "state": "OH",
+        "addressTypeCd": "8",
+        "city": "Columbus"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.1151527,
+      "lng": -83.0558626
+    },
+    {
+      "schoolName": "Scecina Memorial High School",
+      "aiCode": "151745",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Indianapolis",
+        "countryIsoCd": "US",
+        "postalCd": "46201-1836",
+        "addressLine1": "5000 Nowland Ave",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [
+          "SATSD-2026-F"
+        ],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.7871308,
+      "lng": -86.0857044
+    },
+    {
+      "schoolName": "Arsenal Technical High School",
+      "aiCode": "151645",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46201-3079",
+        "addressLine1": "1500 E Michigan St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Indianapolis"
+      },
+      "testDates": {
+        "sat": [
+          "SATSD-2026-F"
+        ],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [
+          "P10-2027-S"
+        ],
+        "psat89": [
+          "P89-2026-F",
+          "P89-2027-S"
+        ]
+      },
+      "lat": 39.7767095,
+      "lng": -86.1327638
+    },
+    {
+      "schoolName": "Victory College Prep",
+      "aiCode": "151753",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Indianapolis",
+        "countryIsoCd": "US",
+        "postalCd": "46203-3640",
+        "addressLine1": "1780 Sloan Ave",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [
+          "P10-2027-S"
+        ],
+        "psat89": [
+          "P89-2026-F",
+          "P89-2027-S"
+        ]
+      },
+      "lat": 39.7433139,
+      "lng": -86.0890151
+    },
+    {
+      "schoolName": "Shortridge International Baccalaureate High School",
+      "aiCode": "151732",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46208-4436",
+        "addressLine1": "3401 N Meridian St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Indianapolis"
+      },
+      "testDates": {
+        "sat": [
+          "SATSD-2026-F"
+        ],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [
+          "P10-2027-S"
+        ],
+        "psat89": [
+          "P89-2026-F",
+          "P89-2027-S"
+        ]
+      },
+      "lat": 39.8181545,
+      "lng": -86.1549851
+    },
+    {
+      "schoolName": "Rooted School - Indianapolis",
+      "aiCode": "150052",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Indianapolis",
+        "countryIsoCd": "US",
+        "postalCd": "46218-3314",
+        "addressLine1": "5750 E 30th St",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [
+          "SATSD-2026-F"
+        ],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [
+          "P10-2027-S"
+        ],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.8118798,
+      "lng": -86.0699109
+    },
+    {
+      "schoolName": "Irvington Preparatory Academy",
+      "aiCode": "151729",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46219-7222",
+        "addressLine1": "5751 University Ave",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Indianapolis"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.7653325,
+      "lng": -86.0689435
+    },
+    {
+      "schoolName": "Bishop Chatard High School",
+      "aiCode": "151654",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Indianapolis",
+        "countryIsoCd": "US",
+        "postalCd": "46220-2840",
+        "addressLine1": "5885 Crittenden Ave",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [
+          "SATSD-2026-F"
+        ],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.8614291,
+      "lng": -86.1277202
+    },
+    {
+      "schoolName": "Providence Cristo Rey High School",
+      "aiCode": "151668",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Indianapolis",
+        "countryIsoCd": "US",
+        "postalCd": "46225-2104",
+        "addressLine1": "2717 S East St",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [
+          "SATSD-2026-F"
+        ],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.7280794,
+      "lng": -86.1487627
+    },
+    {
+      "schoolName": "Cathedral High School",
+      "aiCode": "151660",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46226-1403",
+        "addressLine1": "5225 E 56th St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Indianapolis"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.8520207,
+      "lng": -86.080814
+    },
+    {
+      "schoolName": "Lawrence Central High School",
+      "aiCode": "151710",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46226-1306",
+        "addressLine1": "7300 E 56th St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Indianapolis"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.855106,
+      "lng": -86.0510029
+    },
+    {
+      "schoolName": "Suburban Christian School",
+      "aiCode": "151757",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Indianapolis",
+        "countryIsoCd": "US",
+        "postalCd": "46227-2853",
+        "addressLine1": "722 E County Line Rd",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2027-S"
+        ]
+      },
+      "lat": 39.6368594,
+      "lng": -86.1435248
+    },
+    {
+      "schoolName": "Roncalli High School",
+      "aiCode": "151651",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Indianapolis",
+        "countryIsoCd": "US",
+        "postalCd": "46227-7010",
+        "addressLine1": "3300 Prague Rd",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.6908781,
+      "lng": -86.1077632
+    },
+    {
+      "schoolName": "Southport High School",
+      "aiCode": "151752",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46227-2207",
+        "addressLine1": "971 E Banta Rd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Indianapolis"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.6719695,
+      "lng": -86.1383387
+    },
+    {
+      "schoolName": "James And Rosemary Phalen Leadership Academy",
+      "aiCode": "150010",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Indianapolis",
+        "countryIsoCd": "US",
+        "postalCd": "46235-1224",
+        "addressLine1": "4352 N Mitthoefer Rd",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.8360946,
+      "lng": -85.9925398
+    },
+    {
+      "schoolName": "North Central High School",
+      "aiCode": "151717",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46240-2345",
+        "addressLine1": "1801 E 86th St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Indianapolis"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.9079682,
+      "lng": -86.1306216
+    },
+    {
+      "schoolName": "Park Tudor School",
+      "aiCode": "151720",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Indianapolis",
+        "countryIsoCd": "US",
+        "postalCd": "46240-3016",
+        "addressLine1": "7200 N College Ave",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.8856691,
+      "lng": -86.1486073
+    },
+    {
+      "schoolName": "Colonial Christian High School",
+      "aiCode": "151661",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Indianapolis",
+        "countryIsoCd": "US",
+        "postalCd": "46240-2445",
+        "addressLine1": "8140 Union Chapel Rd",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.9044967,
+      "lng": -86.1196968
+    },
+    {
+      "schoolName": "Indiana School for the Blind",
+      "aiCode": "151690",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Indianapolis",
+        "countryIsoCd": "US",
+        "postalCd": "46240-2504",
+        "addressLine1": "7725 N College Ave",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [
+          "SATSD-2026-F"
+        ],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.8957506,
+      "lng": -86.1423967
+    },
+    {
+      "schoolName": "Heritage Christian School",
+      "aiCode": "151688",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Indianapolis",
+        "countryIsoCd": "US",
+        "postalCd": "46250-2703",
+        "addressLine1": "6401 E 75th St",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.8886625,
+      "lng": -86.057969
+    },
+    {
+      "schoolName": "Classical Academy",
+      "aiCode": "150062",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46250-1304",
+        "addressLine1": "6049 E 91st St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Indianapolis"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.9181817,
+      "lng": -86.0633246
+    },
+    {
+      "schoolName": "Dynamic Minds Acad",
+      "aiCode": "150084",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46250-3593",
+        "addressLine1": "8350 Craig St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Indianapolis"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [
+          "P10-2027-S"
+        ],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.9087734,
+      "lng": -86.0535317
+    },
+    {
+      "schoolName": "Lawrence North High School",
+      "aiCode": "151712",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46256-1754",
+        "addressLine1": "7802 Hague Rd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Indianapolis"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.8958488,
+      "lng": -86.0350665
+    },
+    {
+      "schoolName": "Franklin Central High School",
+      "aiCode": "153665",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46259-9600",
+        "addressLine1": "6215 S Franklin Rd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Indianapolis"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.6778292,
+      "lng": -86.0158848
+    },
+    {
+      "schoolName": "Greenfield-Central High School",
+      "aiCode": "151350",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46140-1440",
+        "addressLine1": "810 N Broadway St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Greenfield"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.7925539,
+      "lng": -85.7812769
+    },
+    {
+      "schoolName": "New Palestine High School",
+      "aiCode": "152560",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46163",
+        "addressLine1": "4485 S Victory Dr",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "New Palestine"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.7189238,
+      "lng": -85.8903933
+    },
+    {
+      "schoolName": "Connersville Senior High School",
+      "aiCode": "150630",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47331-1013",
+        "addressLine1": "1100 Spartan Dr",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Connersville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.637405,
+      "lng": -85.161072
+    },
+    {
+      "schoolName": "Wes-Del High School",
+      "aiCode": "151285",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47342-9721",
+        "addressLine1": "10000 N County Road 600 W",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Gaston"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 40.2793049,
+      "lng": -85.5006726
+    },
+    {
+      "schoolName": "Hagerstown Junior-Senior High School",
+      "aiCode": "151420",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47346-1022",
+        "addressLine1": "701 Baker Rd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Hagerstown"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [
+          "P10-2027-S"
+        ],
+        "psat89": [
+          "P89-2026-F",
+          "P89-2027-S"
+        ]
+      },
+      "lat": 39.938404,
+      "lng": -85.1622733
+    },
+    {
+      "schoolName": "Centerville Senior High School",
+      "aiCode": "150470",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47330-1100",
+        "addressLine1": "507 Willow Grove Rd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Centerville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.813513,
+      "lng": -85.0011645
+    },
+    {
+      "schoolName": "Seton Catholic High School",
+      "aiCode": "152966",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Richmond",
+        "countryIsoCd": "US",
+        "postalCd": "47374-5411",
+        "addressLine1": "233 S 5th St",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.8251341,
+      "lng": -84.8954292
+    },
+    {
+      "schoolName": "Winchester Community High School",
+      "aiCode": "153850",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47394-1232",
+        "addressLine1": "700 N Union St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Winchester"
+      },
+      "testDates": {
+        "sat": [
+          "SATSD-2026-F"
+        ],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 40.1811342,
+      "lng": -84.9749049
+    },
+    {
+      "schoolName": "Morristown Junior-Senior High School",
+      "aiCode": "152440",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46161-9100",
+        "addressLine1": "223 S Patterson St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Morristown"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.672522,
+      "lng": -85.7012347
+    },
+    {
+      "schoolName": "Batesville High School",
+      "aiCode": "150145",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47006-9546",
+        "addressLine1": "1 Bulldog Blvd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Batesville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.3109865,
+      "lng": -85.2338009
+    },
+    {
+      "schoolName": "Milan High School",
+      "aiCode": "152310",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47031-8888",
+        "addressLine1": "609 N Warpath Dr",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Milan"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.1294666,
+      "lng": -85.1300877
+    },
+    {
+      "schoolName": "Lawrenceburg High School",
+      "aiCode": "152010",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47025-1608",
+        "addressLine1": "100 Tiger Blvd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Lawrenceburg"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.0996756,
+      "lng": -84.8530762
+    },
+    {
+      "schoolName": "Greendale Middle School",
+      "aiCode": "159049",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47025-1613",
+        "addressLine1": "200 Tiger Blvd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Lawrenceburg"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.0994236,
+      "lng": -84.8564336
+    },
+    {
+      "schoolName": "Fiat Classical Academy",
+      "aiCode": "316871",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47001-1203",
+        "addressLine1": "211 4th St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Aurora"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.0541267,
+      "lng": -84.8995616
+    },
+    {
+      "schoolName": "Oldenburg Academy",
+      "aiCode": "152680",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47036",
+        "addressLine1": "1 Twister Cir",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Oldenburg"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.3429117,
+      "lng": -85.2005214
+    },
+    {
+      "schoolName": "South Ripley Junior-Senior High School",
+      "aiCode": "153590",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47042-8412",
+        "addressLine1": "1589 S Benham Rd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Versailles"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.0509168,
+      "lng": -85.2491179
+    },
+    {
+      "schoolName": "Beech Grove High School",
+      "aiCode": "150175",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46107-2306",
+        "addressLine1": "5330 Hornet Ave",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Beech Grove"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.7114684,
+      "lng": -86.0761911
+    },
+    {
+      "schoolName": "Edinburgh Community High School",
+      "aiCode": "150885",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46124-1384",
+        "addressLine1": "300 Keeley St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Edinburgh"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.352155,
+      "lng": -85.969802
+    },
+    {
+      "schoolName": "Greenwood Christian Academy",
+      "aiCode": "151391",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46142-1526",
+        "addressLine1": "1495 W Main St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Greenwood"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.6114287,
+      "lng": -86.1493709
+    },
+    {
+      "schoolName": "Greenwood Community High School",
+      "aiCode": "151395",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46142-3048",
+        "addressLine1": "615 W Smith Valley Rd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Greenwood"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.606124,
+      "lng": -86.117347
+    },
+    {
+      "schoolName": "Columbus East High School",
+      "aiCode": "150608",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47201-7267",
+        "addressLine1": "230 S Marr Rd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Columbus"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.1951933,
+      "lng": -85.8849396
+    },
+    {
+      "schoolName": "Columbus Christian School, Incorporated",
+      "aiCode": "150611",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Columbus",
+        "countryIsoCd": "US",
+        "postalCd": "47201-7261",
+        "addressLine1": "3170 Indiana Ave",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.1985992,
+      "lng": -85.8862036
+    },
+    {
+      "schoolName": "Columbus Signature Academy - New Tech",
+      "aiCode": "150604",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Columbus",
+        "countryIsoCd": "US",
+        "postalCd": "47201-3282",
+        "addressLine1": "2205 25th St",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.222939,
+      "lng": -85.9011417
+    },
+    {
+      "schoolName": "Columbus North High School",
+      "aiCode": "150610",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47201-4384",
+        "addressLine1": "1400 25th St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Columbus"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.223047,
+      "lng": -85.91078
+    },
+    {
+      "schoolName": "Greensburg Jr Sr Virtual School",
+      "aiCode": "229326",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47240",
+        "addressLine1": "422 E Central Ave",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Greensburg"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.3405834,
+      "lng": -85.4782967
+    },
+    {
+      "schoolName": "Triton Central High School",
+      "aiCode": "150995",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46126-9463",
+        "addressLine1": "4774 W 600 N",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Fairland"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 39.6115702,
+      "lng": -85.871859
+    },
+    {
+      "schoolName": "Shelbyville High School",
+      "aiCode": "153200",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "46176-3207",
+        "addressLine1": "2003 S Miller St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Shelbyville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 39.5061275,
+      "lng": -85.7885519
+    },
+    {
+      "schoolName": "Southwestern Middle and High School",
+      "aiCode": "151465",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47243-9468",
+        "addressLine1": "167 S Main Cross St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Hanover"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 38.7106344,
+      "lng": -85.4741514
+    },
+    {
+      "schoolName": "Christian Academy Of Madison",
+      "aiCode": "152251",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Madison",
+        "countryIsoCd": "US",
+        "postalCd": "47250-7830",
+        "addressLine1": "477 Hutchinson Ln",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 38.7842377,
+      "lng": -85.3959653
+    },
+    {
+      "schoolName": "Rising Sun High School",
+      "aiCode": "152990",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47040-1020",
+        "addressLine1": "210 S Henrietta St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Rising Sun"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 38.9497441,
+      "lng": -84.8594585
+    },
+    {
+      "schoolName": "Switzerland County High School",
+      "aiCode": "153595",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47043-9164",
+        "addressLine1": "1020 W Main St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Vevay"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 38.740936,
+      "lng": -85.078334
+    },
+    {
+      "schoolName": "Lanesville Junior-Senior High School",
+      "aiCode": "151975",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47136-8601",
+        "addressLine1": "2725 Crestview Ave NE",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Lanesville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 38.2391377,
+      "lng": -85.9854185
+    },
+    {
+      "schoolName": "Seymour High School",
+      "aiCode": "153175",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47274-2222",
+        "addressLine1": "1350 W 2nd St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Seymour"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 38.9550234,
+      "lng": -85.9069918
+    },
+    {
+      "schoolName": "William W Borden High School",
+      "aiCode": "150255",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47106-8951",
+        "addressLine1": "301 West St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Borden"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 38.468923,
+      "lng": -85.946583
+    },
+    {
+      "schoolName": "Charlestown High School",
+      "aiCode": "150490",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47111-1646",
+        "addressLine1": "1 Pirate Pl",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Charlestown"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 38.4558772,
+      "lng": -85.6673618
+    },
+    {
+      "schoolName": "Floyd Central High School",
+      "aiCode": "152503",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47119-9742",
+        "addressLine1": "6575 Old Vincennes Rd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Floyds Knobs"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 38.3335154,
+      "lng": -85.9335909
+    },
+    {
+      "schoolName": "Henryville Junior-Senior High School",
+      "aiCode": "151525",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47126-9735",
+        "addressLine1": "213 N Ferguson St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Henryville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 38.5391269,
+      "lng": -85.7678077
+    },
+    {
+      "schoolName": "Our Lady of Providence High School",
+      "aiCode": "150540",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "Clarksville",
+        "countryIsoCd": "US",
+        "postalCd": "47129-1534",
+        "addressLine1": "707 Providence Way",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [
+          "SATSD-2026-F"
+        ],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 38.3064759,
+      "lng": -85.7843347
+    },
+    {
+      "schoolName": "Jeffersonville High School",
+      "aiCode": "151795",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47130-5818",
+        "addressLine1": "2315 Allison Ln",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Jeffersonville"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 38.3174696,
+      "lng": -85.7112508
+    },
+    {
+      "schoolName": "New Albany High School",
+      "aiCode": "152505",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47150-3148",
+        "addressLine1": "1020 Vincennes St",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "New Albany"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": [
+          "P89-2026-F"
+        ]
+      },
+      "lat": 38.2988158,
+      "lng": -85.8112156
+    },
+    {
+      "schoolName": "Community Montessori",
+      "aiCode": "152506",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "New Albany",
+        "countryIsoCd": "US",
+        "postalCd": "47150-9750",
+        "addressLine1": "4102 Saint Joseph Rd",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 38.3528717,
+      "lng": -85.8102109
+    },
+    {
+      "schoolName": "Christian Academy of Indiana",
+      "aiCode": "152504",
+      "mainAddress": {
+        "addressTypeCd": "8",
+        "city": "New Albany",
+        "countryIsoCd": "US",
+        "postalCd": "47150-3180",
+        "addressLine1": "1000 Academy Dr",
+        "state": "IN",
+        "countryEtsCd": "0"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 38.3255755,
+      "lng": -85.8285992
+    },
+    {
+      "schoolName": "Silver Creek High School",
+      "aiCode": "153160",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47172-1329",
+        "addressLine1": "557 Renz Ave",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Sellersburg"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 38.407675,
+      "lng": -85.7552922
+    },
+    {
+      "schoolName": "Eastern High School",
+      "aiCode": "152780",
+      "mainAddress": {
+        "countryIsoCd": "US",
+        "postalCd": "47165-7902",
+        "addressLine1": "1100 N Eastern School Rd",
+        "state": "IN",
+        "addressTypeCd": "8",
+        "city": "Pekin"
+      },
+      "testDates": {
+        "sat": [],
+        "pnmsqt": [
+          "P11-2026-F"
+        ],
+        "psat10": [],
+        "psat89": []
+      },
+      "lat": 38.5147412,
+      "lng": -86.0009886
+    }
+  ]
+}
