@@ -64,6 +64,22 @@
       padding: 20px 0;
     }
 
+    .load-notes-btn {
+      width: 100%;
+      background: #2a4967;
+      color: white;
+      border: none;
+      padding: 8px 12px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 13px;
+      margin-bottom: 10px;
+    }
+
+    .load-notes-btn:hover {
+      background: #1a3957;
+    }
+
     .selected-card {
       background: #f4f4f9;
       border-radius: 6px;
@@ -128,6 +144,45 @@
       font-size: 12px;
     }
 
+    .selected-card .notes {
+      font-size: 12px;
+      margin-top: 8px;
+      padding-top: 8px;
+      border-top: 1px dashed #ccc;
+    }
+
+    .selected-card .copy-btn {
+      background: #e8eef3;
+      color: #2a4967;
+      border: 1px solid #ccc;
+      padding: 6px 10px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 12px;
+    }
+
+    .selected-card .copy-btn:hover {
+      background: #d4e0e8;
+    }
+
+    .selected-card .copy-btn.copied {
+      background: #2aad27;
+    }
+
+    .selected-card .notes-actions {
+      margin-top: 8px;
+      padding-top: 8px;
+      border-top: 1px dashed #ccc;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .selected-card .sheet-link {
+      font-size: 11px;
+      color: #2a4967;
+    }
+
     .selected-card.highlighted {
       background: #d4e6f1;
       border: 2px solid #2a4967;
@@ -177,6 +232,7 @@
     <div class="map-container">
       <div id="selected-list">
         <h3>Selected Schools</h3>
+        <button id="load-notes-btn" class="load-notes-btn" onclick="loadSchoolsWithNotes()">📋 Load schools with notes</button>
         <div class="empty-message">Click a pin to add schools</div>
       </div>
       <div id="map"></div>
@@ -186,6 +242,67 @@
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script>
+    // Google Sheet configuration
+    const SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/1zH7NknB0LYfZDMtLG-re5NrTZxEM2h6SW0fDHFjTn1A/export?format=csv';
+    const SHEET_VIEW_URL = 'https://docs.google.com/spreadsheets/d/1zH7NknB0LYfZDMtLG-re5NrTZxEM2h6SW0fDHFjTn1A/edit?usp=sharing';
+    
+    // Store notes from spreadsheet, keyed by aiCode
+    let schoolNotes = new Map();
+
+    // Parse CSV and build notes lookup
+    async function loadSchoolNotes() {
+      try {
+        const response = await fetch(SHEET_CSV_URL);
+        const csvText = await response.text();
+        const rows = csvText.trim().split('\n').map(row => {
+          const result = [];
+          let current = '';
+          let inQuotes = false;
+          for (let char of row) {
+            if (char === '"') {
+              inQuotes = !inQuotes;
+            } else if (char === ',' && !inQuotes) {
+              result.push(current.trim());
+              current = '';
+            } else {
+              current += char;
+            }
+          }
+          result.push(current.trim());
+          return result;
+        });
+
+        if (rows.length < 2) return;
+
+        const headers = rows[0].map(h => h.toLowerCase());
+        const aiCodeIndex = headers.indexOf('aicode');
+        
+        if (aiCodeIndex === -1) {
+          console.warn('No aiCode column found in spreadsheet');
+          return;
+        }
+
+        for (let i = 1; i < rows.length; i++) {
+          const row = rows[i];
+          const aiCode = row[aiCodeIndex];
+          if (aiCode) {
+            const noteData = {};
+            headers.forEach((header, idx) => {
+              if (header !== 'aicode' && row[idx]) {
+                noteData[header] = row[idx];
+              }
+            });
+            if (Object.keys(noteData).length > 0) {
+              schoolNotes.set(aiCode, noteData);
+            }
+          }
+        }
+        console.log(`Loaded notes for ${schoolNotes.size} schools`);
+      } catch (error) {
+        console.error('Error loading school notes:', error);
+      }
+    }
+
     // Initialize the map centered on Ohio/Indiana border area
     const map = L.map('map').setView([39.9, -84.5], 6);
 
@@ -196,6 +313,41 @@
 
     // Track selected schools
     const selectedSchools = new Map();
+
+    // Store all schools data for lookup
+    let allSchoolsData = [];
+
+    // Load all schools that have notes in the spreadsheet
+    function loadSchoolsWithNotes() {
+      if (schoolNotes.size === 0) {
+        alert('No notes found in spreadsheet');
+        return;
+      }
+      
+      for (const school of allSchoolsData) {
+        if (schoolNotes.has(school.aiCode)) {
+          const addr = school.mainAddress;
+          const fullAddress = `${addr.addressLine1}, ${addr.city}, ${addr.state} ${addr.postalCd}`;
+          addToSelectedList(school, fullAddress);
+        }
+      }
+    }
+
+    // Copy row data to clipboard
+    function copyToClipboard(text, btn) {
+      navigator.clipboard.writeText(text).then(() => {
+        const originalText = btn.textContent;
+        btn.textContent = '✓ Copied!';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.textContent = originalText;
+          btn.classList.remove('copied');
+        }, 2000);
+      }).catch(err => {
+        console.error('Failed to copy:', err);
+        alert('Failed to copy. Please copy manually: ' + text);
+      });
+    }
 
     function addToSelectedList(school, fullAddress) {
       const cardId = `card-${school.aiCode}`;
@@ -228,11 +380,29 @@
       const card = document.createElement('div');
       card.className = cardClass;
       card.id = cardId;
+      
+      // Check for notes from spreadsheet - only show the "notes" column
+      const notes = schoolNotes.get(school.aiCode);
+      let notesHtml = '';
+      // Match spreadsheet columns: aiCode, School Name, Test Type, Accommodations, Contact, Notes
+      const rowData = `${school.aiCode}\t${school.schoolName}\t\t\t\t`;
+      
+      if (notes && notes.notes) {
+        notesHtml = `<div class="notes"><strong>Notes:</strong> ${notes.notes}</div>`;
+      }
+      
+      // Always show copy button and spreadsheet link
+      notesHtml += `<div class="notes-actions">
+        <button class="copy-btn" onclick="copyToClipboard('${rowData.replace(/'/g, "\\'")}', this)">📋 Copy row</button>
+        <a href="${SHEET_VIEW_URL}" target="_blank" class="sheet-link">Open spreadsheet</a>
+      </div>`;
+      
       card.innerHTML = `
         <button class="close-btn" onclick="removeFromList('${school.aiCode}')">&times;</button>
         <a class="school-name" href="${googleUrl}" target="_blank">${school.schoolName}</a>
         <div class="address">${fullAddress}</div>
         <div class="tests"><strong>Tests:</strong><br>${formatTests(school.testDates)}</div>
+        ${notesHtml}
       `;
       listEl.appendChild(card);
       highlightCard(cardId);
@@ -316,6 +486,7 @@
       try {
         const response = await fetch('sat-data.json');
         const data = await response.json();
+        allSchoolsData = data.hits; // Store for later lookup
         
         const markers = [];
         
@@ -347,7 +518,8 @@
       }
     }
 
-    loadSchools();
+    // Load notes first, then schools
+    loadSchoolNotes().then(() => loadSchools());
   </script>
 </body>
 
